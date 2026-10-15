@@ -8,7 +8,7 @@ The dashboard helps explore business performance through key performance indicat
 
 ## 📊 Dashboard Preview
 
-![E-commerce Sales Dashboard](dashboard.png)
+![E-commerce Sales Dashboard](Dashboard.PNG)
 
 ## 🎯 Project Objectives
 
