@@ -2,12 +2,12 @@
 
 ### 1. Dashboard
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard.PNG)
 
 ### 2. MTD (Month-to-Date)
 
-![MTD Sales Analysis](monthly-sales-analysis.png)
+![MTD Sales Analysis](MTD.PNG)
 
 ### 3. Sales Last Year
 
-![Sales Last Year](sales-last-year.png)
+![Sales Last Year](Sales%20Last%20Year.PNG)
